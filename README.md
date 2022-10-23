@@ -28,12 +28,13 @@ I started programming in April 2022 and haven't lost the fun of it. My main lang
 
 ## 📊 Github Stats
 
-<br/>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisiCyberBee&show_icons=true&theme=dark&icon_color=f1c40f&title_color=f1c40f&text_color=ffffff&border_color=2f3136" alt="ChrisiCyberBee's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=chrisicyberbee&show_icons=true&theme=dark&icon_color=f1c40f&title_color=f1c40f&text_color=ffffff&border_color=2f3136" alt="ChrisiCyberBee's GitHub Stats">
 </div>
 
 <div align="center">
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisicyberbee&count_private=true&theme=dark" alt="ChrisiCyberBee">
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisicyberbee&count_private=true&theme=dark&icon_color=f1c40f&title_color=f1c40f&text_color=ffffff&border_color=2f3136" alt="ChrisiCyberBee">
+</div>
   
 -----  
