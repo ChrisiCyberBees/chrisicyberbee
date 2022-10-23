@@ -34,6 +34,6 @@ I started programming in April 2022 and haven't lost the fun of it. My main lang
 </div>
 
 <div align="center">
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisiCyberBee&count_private=false&theme=dark&icon_color=f1c40f&title_color=f1c40f&text_color=ffffff&border_color=2f3136" alt="ChrisiCyberBee" />
+<img width=500 src="https://github-readme-stats.vercel.app/api?username=ChrisiCyberBee&count_private=false&theme=dark&icon_color=f1c40f&title_color=f1c40f&text_color=ffffff&border_color=2f3136" alt="ChrisiCyberBee" />
   
 -----  
