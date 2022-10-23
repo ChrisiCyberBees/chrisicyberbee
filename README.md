@@ -11,7 +11,7 @@ I started programming in April 2022 and haven't lost the fun of it. My main lang
        alt="snake" /></a>
 </div>
 
-## 〣🔎│• About Me!
+## 🔎 About Me!
 
 - 😄|Pronouns: He/Him
 - 🐝|My current project is the Cyber Bee's Bot
@@ -22,11 +22,11 @@ I started programming in April 2022 and haven't lost the fun of it. My main lang
 - 📬│Contact me at ChrisiCyberBees@gmx.net or via Discord [Chrisi | クリシ](https://discord.com/users/891677918755946546)
 
 
-## 〣💻│• Languages and Tools:
+## 💻 Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=java,github,idea,vscode,discord,bots,css,html,js)
 
-## 〣📊│• Github Stats
+## 📊 Github Stats
 
 <br/>
 <div align="center">
